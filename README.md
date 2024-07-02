@@ -3,7 +3,7 @@
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/niiaco/3xui/master/install.sh)
 ```
 
 ## Install Custom Version
@@ -11,7 +11,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.
 To install your desired version, add the version to the end of the installation command. e.g., ver `v2.3.7`:
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) v2.3.7
+bash <(curl -Ls https://raw.githubusercontent.com/niiaco/3xui/master/install.sh) v2.3.7
 ```
 
 ## SSL Certificate
